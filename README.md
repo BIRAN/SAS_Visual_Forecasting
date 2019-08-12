@@ -10,7 +10,7 @@ So I use github's wiki for this purpose and make it as a start.
 
 My research subject at SAS is time series forecasting.  
 
-## statistical methods
+## Statistical methods
 
 1. ARIMA/ Seasonal ARIMA
 
@@ -22,7 +22,7 @@ My research subject at SAS is time series forecasting.
 
 2. etc
 
-## Deep Learning
+## Deep learning
 
 1. LSTM
 
