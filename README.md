@@ -9,3 +9,5 @@ I used to store paper-to-read/finished in OneTab. Clearly, using Github is much 
 So I use github's wiki for this purpose and make it as a start.
 
 My research subject at SAS is time series forecasting.  
+
+# statistical methods
