@@ -10,4 +10,22 @@ So I use github's wiki for this purpose and make it as a start.
 
 My research subject at SAS is time series forecasting.  
 
-# statistical methods
+## statistical methods
+
+1. ARIMA/ Seasonal ARIMA
+
+2. VAR/ VARMAX
+
+## Machine learning
+
+1. Neural Network
+
+2. etc
+
+## Deep Learning
+
+1. LSTM
+
+2. Dilated CNN/ TCN[https://github.com/BIRAN/SAS_Visual_Forecasting/wiki/dilated-CNN]
+
+
