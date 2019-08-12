@@ -29,3 +29,10 @@ My research subject at SAS is time series forecasting.
 2. [Dilated CNN/ TCN](https://github.com/BIRAN/SAS_Visual_Forecasting/wiki/dilated-CNN)
 
 
+I believe that in the french quote "Ce qui se conçoit bien s'énonce clairement - Et les mots pour le dire arrivent aisément" (*L'Art poétique* by Nicolas Boileau-Despréaux (1674)), which roughly translates to "what you clearly understand is easy to explain - and words come easy". This quote is very important to me, because I realized that it is so true.
+
+My goal is indeed to clearly understand all these annotated papers, therefore, I hope that my notes can be easily understood by anyone who has an interest in these papers.
+
+Enough said ! Head to the [wiki](https://github.com/BIRAN/SAS_Visual_Forecasting/wiki).
+
+
