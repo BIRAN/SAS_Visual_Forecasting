@@ -36,6 +36,13 @@ My research subject at SAS Institute is time series forecasting.
 
 2. Bank network
 
+## Timeline of time series forecasting
+
+1. Graph
+
+2. Google Trends
+
+
 Besides, I made a timeline graph illustrating the development of time series forecasting. And based on Stefano's suggestion, I considered Google trends as the index for popularity of each forecasting method. For example, [exponential smoothing](https://biran.github.io/esm/)
 
 I believe that in the french quote "Ce qui se conçoit bien s'énonce clairement - Et les mots pour le dire arrivent aisément" (*L'Art poétique* by Nicolas Boileau-Despréaux (1674)), which roughly translates to "what you clearly understand is easy to explain - and words come easy". This quote is very important to me, because I realized that it is so true.
