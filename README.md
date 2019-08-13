@@ -30,6 +30,12 @@ My research subject at SAS Institute is time series forecasting.
 
 2. [Dilated CNN/ TCN](https://github.com/BIRAN/SAS_Visual_Forecasting/wiki/dilated-CNN)
 
+## Network Visualization
+
+1. US stock market
+
+2. Bank network
+
 
 I believe that in the french quote "Ce qui se conçoit bien s'énonce clairement - Et les mots pour le dire arrivent aisément" (*L'Art poétique* by Nicolas Boileau-Despréaux (1674)), which roughly translates to "what you clearly understand is easy to explain - and words come easy". This quote is very important to me, because I realized that it is so true.
 
