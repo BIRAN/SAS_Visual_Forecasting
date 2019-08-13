@@ -43,7 +43,7 @@ My research subject at SAS Institute is time series forecasting.
 2. Google Trends
 
 
-Besides, I made a timeline graph illustrating the development of time series forecasting. And based on Stefano's suggestion, I considered Google trends as the index for popularity of each forecasting method. For example, [exponential smoothing](https://biran.github.io/esm/)
+Besides, I made a timeline graph illustrating the development of time series forecasting. And based on Stefano's suggestion, I considered Google trends as the index for popularity of each forecasting method. Please visit my [GitHub Page](https://biran.github.io/Overview-of-time-series-forecasting/) For example, [exponential smoothing](https://biran.github.io/Overview-of-time-series-forecasting/esm/),[Hidden Markov model](https://biran.github.io/Overview-of-time-series-forecasting/hmm/), [ARIMA](https://biran.github.io/Overview-of-time-series-forecasting/arima/), ARCH(https://biran.github.io/Overview-of-time-series-forecasting/arch/) and [VAR model](https://biran.github.io/Overview-of-time-series-forecasting/var/)
 
 I believe that in the french quote "Ce qui se conçoit bien s'énonce clairement - Et les mots pour le dire arrivent aisément" (*L'Art poétique* by Nicolas Boileau-Despréaux (1674)), which roughly translates to "what you clearly understand is easy to explain - and words come easy". This quote is very important to me, because I realized that it is so true.
 
