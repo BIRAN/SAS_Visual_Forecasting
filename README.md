@@ -34,7 +34,7 @@ My research subject at SAS Institute is time series forecasting.
 
 1. US stock market
 
-2. [International Bank network](https://biran.github.io/Overview-of-time-series-forecasting/network/)
+2. [International Bank network](https://biran.github.io/Overview-of-time-series-forecasting/network/) [dynamic_example](https://biran.github.io/Overview-of-time-series-forecasting/network_dynamic/)
 
 ## Timeline of time series forecasting
 
