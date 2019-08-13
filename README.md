@@ -40,7 +40,7 @@ My research subject at SAS Institute is time series forecasting.
 
 1. Graph
 
-2. Google Trends
+2. [Google Trends](https://biran.github.io/Overview-of-time-series-forecasting/)
 
 
 Besides, I made a timeline graph illustrating the development of time series forecasting. And based on Stefano's suggestion, I considered Google trends as the index for popularity of each forecasting method. Visit my [GitHub Page](https://biran.github.io/Overview-of-time-series-forecasting/). For example, [exponential smoothing](https://biran.github.io/Overview-of-time-series-forecasting/esm/),[Hidden Markov model](https://biran.github.io/Overview-of-time-series-forecasting/hmm/), [ARIMA](https://biran.github.io/Overview-of-time-series-forecasting/arima/), [ARCH](https://biran.github.io/Overview-of-time-series-forecasting/arch/) and [VAR model](https://biran.github.io/Overview-of-time-series-forecasting/var/)
