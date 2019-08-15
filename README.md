@@ -28,7 +28,7 @@ My research subject at SAS Institute is time series forecasting.
 
 1. LSTM
 
-2. [Dilated CNN/ TCN](https://github.com/BIRAN/SAS_Visual_Forecasting/wiki/dilated-CNN)
+2. [Dilated CNN/ TCN](https://github.com/BIRAN/SAS_Visual_Forecasting/wiki/dilated-CNN)  ([demo1](https://github.com/BIRAN/SAS_Visual_Forecasting/blob/master/deep_learning/tcn_demos.ipynb))
 
 ## Network Visualization
 
